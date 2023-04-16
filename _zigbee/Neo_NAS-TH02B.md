@@ -16,3 +16,5 @@ link3: https://www.aliexpress.com/item/1005002540793253.html
 ---
 ## Warning
 The device will not work correctly unless it was first paired with a Tuya Gateway [https://github.com/zigpy/zha-device-handlers/issues/862#issuecomment-862582771]
+
+Without Tuya Gateway, try this: [https://community.home-assistant.io/t/tuya-ts0201-temperature-sensor/295138/28]
